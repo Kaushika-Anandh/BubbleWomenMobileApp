@@ -1,0 +1,6 @@
+[submodule "FrontEnd"]
+	path = FrontEnd
+	url = https://github.com/Kaushika-Anandh/BubbleWomen-FrontEnd.git
+[submodule "BackEnd"]
+	path = BackEnd
+	url = https://github.com/Kaushika-Anandh/BubbleWomen-ServerSide.git
